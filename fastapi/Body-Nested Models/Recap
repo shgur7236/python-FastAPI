@@ -1,0 +1,9 @@
+FastAPI를 사용하면 코드를 단순하고 짧고 우아하게 유지하면서 
+Pydantic 모델이 제공하는 최대의 유연성을 얻을 수 있습니다.
+
+
+Editor support (completion everywhere!)
+Data conversion (a.k.a. parsing / serialization(직렬화))
+Data validation(유효성 검사)
+Schema documentation
+Automatic docs

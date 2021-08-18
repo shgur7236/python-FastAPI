@@ -1,0 +1,2 @@
+Header는 Query, Path, Cookie 와 동일한 패턴을 사용하여 선언
+변수의 언더스코어를 걱정하지 않아도 된다.FastAPI가 변수를 변환한다
